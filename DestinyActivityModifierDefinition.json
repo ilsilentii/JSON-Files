@@ -1,0 +1,45 @@
+{
+	"DestinyActivityModifierDefinition":
+	[
+		{
+			"id":-2128831035,
+			"json":{"displayProperties":{"description":"","name":"","hasIcon":false},"hash":2166136261,"index":0,"redacted":false}
+		},
+		{
+			"id":-1731962698,
+			"json":{"displayProperties":{"description":"The mission timer cannot be extended. Choose your battles carefully.","name":"Timewarp: Zero Hour","icon":"/common/destiny2_content/icons/c30df4d69d8a4ad2e2bab40f6939bd4a.png","hasIcon":true},"hash":2563004598,"index":8,"redacted":false}
+		},
+		{
+			"id":-1517944206,
+			"json":{"displayProperties":{"description":"Strange anomalies have been detected in the area. Destroy them to release temporal energy and extend the mission timer.","name":"Timewarp: Anomalies","icon":"/common/destiny2_content/icons/39baf194a9e5bd010677e94869202cdb.png","hasIcon":true},"hash":2777023090,"index":6,"redacted":false}
+		},
+		{
+			"id":-1485203341,
+			"json":{"displayProperties":{"description":"Health and shield regeneration are disabled while standing still. Sprint to regenerate more quickly.","name":"Momentum","icon":"/common/destiny2_content/icons/1bfd24ad52062c4ff49d969cebdf1e80.png","hasIcon":true},"hash":2809763955,"index":5,"redacted":false}
+		},
+		{
+			"id":-1265292812,
+			"json":{"displayProperties":{"description":"Boundless power erupts from within. Your abilities recharge much faster. Use them to shatter your foes.","name":"Torrent","icon":"/common/destiny2_content/icons/6f8f2c93dd62a80f43986f652a770fbf.png","hasIcon":true},"hash":3029674484,"index":4,"redacted":false}
+		},
+		{
+			"id":-1180153203,
+			"json":{"displayProperties":{"description":"Keep it secret.  Keep it safe.","name":"Classified","hasIcon":false},"hash":3114814093,"index":3,"redacted":true}
+		},
+		{
+			"id":-320375929,
+			"json":{"displayProperties":{"description":"Health and shield regeneration is significantly impaired. Defeating enemies may create wells of Light. Collect these to restore your health and charge your super.","name":"Attrition","icon":"/common/destiny2_content/icons/4e06fb7856eb1edec94329d7aba7255b.png","hasIcon":true},"hash":3974591367,"index":2,"redacted":false}
+		},
+		{
+			"id":-1957750,
+			"json":{"displayProperties":{"description":"Your attacks matching the focused element deal increased damage. All other elemental damage is reduced. Kinetic and incoming damage is unaffected. The focused element rotates periodically.","name":"Prism","icon":"/common/destiny2_content/icons/715bc1679e54134a0fa14c6188738bc4.png","hasIcon":true},"hash":4293009546,"index":1,"redacted":false}
+		},
+		{
+			"id":458112752,
+			"json":{"displayProperties":{"description":"Vex time gates have appeared in the area. Pass through them to discharge temporal energy and extend the mission timer.","name":"Timewarp: Rings","icon":"/common/destiny2_content/icons/c3b6301e7c0e4ddc433a000f8961d70c.png","hasIcon":true},"hash":458112752,"index":9,"redacted":false}
+		},
+		{
+			"id":1183352841,
+			"json":{"displayProperties":{"description":"Defeat enemies to extend the mission timer, up to a limit.","name":"Timewarp: Killing Time","icon":"/common/destiny2_content/icons/72bdae82525aeb2b1f0d56af1d20a673.png","hasIcon":true},"hash":1183352841,"index":7,"redacted":false}
+		},
+	]
+}

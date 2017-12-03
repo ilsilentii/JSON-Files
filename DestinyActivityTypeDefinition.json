@@ -1,0 +1,93 @@
+{
+	"DestinyActivityTypeDefinition":
+	[
+		{
+			"id":-2093861715,
+			"json":{"displayProperties":{"description":"Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.","name":"Story","icon":"/common/destiny2_content/icons/1d837202fde397f946e7a07bdefda31b.png","hasIcon":true},"hash":2201105581,"index":11,"redacted":false}
+		},
+		{
+			"id":-1923916888,
+			"json":{"displayProperties":{"description":"\"Revel in battles of Light versus Light. Win, and reap ancient weapons and armor from the Dark Age: a time when Iron Lords protected humanity.\" â€”Lord Saladin \n\nFight in a selection of modes and maps that require teamwork and coordination to win.","name":"Iron Banner","icon":"/common/destiny2_content/icons/0ee91b79ba1366243832cf810afc3b75.jpg","hasIcon":true},"hash":2371050408,"index":21,"redacted":false}
+		},
+		{
+			"id":-1900699455,
+			"json":{"displayProperties":{"description":"\"Stakes are high, and coordination with your teammates is vital. Leave personal glory behind, and together you'll crush the enemy.\" â€”Lord Shaxx \n\nFight for glory and honor in a selection of modes and maps that require teamwork and coordination to win.","name":"Competitive","icon":"/common/destiny2_content/icons/331c3812bb3768b6fda30fc066cdb72c.png","hasIcon":true},"hash":2394267841,"index":17,"redacted":false}
+		},
+		{
+			"id":-1405814760,
+			"json":{"displayProperties":{"description":"Join a fireteam of three and face the most feared minions of the Darkness.","name":"Strike","icon":"/common/destiny2_content/icons/297e4880a2392b5c74d836c83f7d57b9.png","hasIcon":true},"hash":2889152536,"index":4,"redacted":false}
+		},
+		{
+			"id":-1042822869,
+			"json":{"displayProperties":{"description":"\"Take risks and learn the art of war. But you have one focus: the enemy must fall.\" â€”Lord Shaxx \n\nKick back in a mix of modes and maps that emphasize having fun with friends.","name":"Quickplay","icon":"/common/destiny2_content/icons/fc5a17682620e28a4a87e6749b82d73a.png","hasIcon":true},"hash":3252144427,"index":16,"redacted":false}
+		},
+		{
+			"id":-797199657,
+			"json":{"displayProperties":{"description":"Wander the frontier. Search the ruins of the Golden Age, claim vital supplies, and hunt down our enemies wherever they dare trespass.","name":"Explore","icon":"/common/destiny2_content/icons/3dd1e719fcacabc91a320ca2e438b436.png","hasIcon":true},"hash":3497767639,"index":9,"redacted":false}
+		},
+		{
+			"id":-589243724,
+			"json":{"displayProperties":{"description":"Keep it secret.  Keep it safe.","name":"Classified","hasIcon":false},"hash":3705723572,"index":13,"redacted":true}
+		},
+		{
+			"id":-184361721,
+			"json":{"displayProperties":{"description":"Join a fireteam of three and face the most feared minions of the Darkness.","name":"Strike","icon":"/common/destiny2_content/icons/297e4880a2392b5c74d836c83f7d57b9.png","hasIcon":true},"hash":4110605575,"index":3,"redacted":false}
+		},
+		{
+			"id":-130395901,
+			"json":{"displayProperties":{"description":"Join a fireteam of three and face the most feared minions of the Darkness.","name":"Strike","icon":"/img/theme/destiny/icons/node_strike_featured.png","hasIcon":true},"hash":4164571395,"index":12,"redacted":false}
+		},
+		{
+			"id":-34909233,
+			"json":{"displayProperties":{"description":"Keep it secret.  Keep it safe.","name":"Classified","hasIcon":false},"hash":4260058063,"index":14,"redacted":true}
+		},
+		{
+			"id":-18850824,
+			"json":{"displayProperties":{"description":"Meet other Guardians as they prepare for new adventures.","name":"Social","icon":"/common/destiny2_content/icons/201d388c74b53c5237515d78981c40cc.png","hasIcon":true},"hash":4276116472,"index":6,"redacted":false}
+		},
+		{
+			"id":73015004,
+			"json":{"displayProperties":{"icon":"/img/misc/missing_icon_d2.png","hasIcon":false},"hash":73015004,"index":18,"redacted":false}
+		},
+		{
+			"id":147238405,
+			"json":{"displayProperties":{"description":"Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.","name":"Story","icon":"/img/theme/destiny/icons/node_story_featured.png","hasIcon":true},"hash":147238405,"index":2,"redacted":false}
+		},
+		{
+			"id":575572995,
+			"json":{"displayProperties":{"description":"Join a fireteam of three and face the most feared minions of the Darkness.","name":"Nightfall","icon":"/common/destiny2_content/icons/297e4880a2392b5c74d836c83f7d57b9.png","hasIcon":true},"hash":575572995,"index":5,"redacted":false}
+		},
+		{
+			"id":680256650,
+			"json":{"displayProperties":{"description":"Keep it secret.  Keep it safe.","name":"Classified","hasIcon":false},"hash":680256650,"index":8,"redacted":true}
+		},
+		{
+			"id":964120289,
+			"json":{"displayProperties":{"description":"Face your fellow Guardians in open combat. Prove your worth, and you will be rewarded.","name":"Rumble","icon":"/common/destiny2_content/icons/6dcd133f79682d340bd051d840b6a0a3.png","hasIcon":true},"hash":964120289,"index":15,"redacted":false}
+		},
+		{
+			"id":1299744814,
+			"json":{"displayProperties":{"description":"Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.","name":"Story","icon":"/common/destiny2_content/icons/1d837202fde397f946e7a07bdefda31b.png","hasIcon":true},"hash":1299744814,"index":1,"redacted":false}
+		},
+		{
+			"id":1589650888,
+			"json":{"displayProperties":{"description":"Meet other Guardians as they prepare for new adventures.","name":"Social","icon":"/common/destiny2_content/icons/201d388c74b53c5237515d78981c40cc.png","hasIcon":true},"hash":1589650888,"index":20,"redacted":false}
+		},
+		{
+			"id":1686739444,
+			"json":{"displayProperties":{"description":"Embark on adventures alone or with a fireteam to push back the Darkness and reclaim our lost worlds.","name":"Story","icon":"/common/destiny2_content/icons/1d837202fde397f946e7a07bdefda31b.png","hasIcon":true},"hash":1686739444,"index":0,"redacted":false}
+		},
+		{
+			"id":1957882444,
+			"json":{"displayProperties":{"description":"Keep it secret.  Keep it safe.","name":"Classified","hasIcon":false},"hash":1957882444,"index":10,"redacted":true}
+		},
+		{
+			"id":2043403989,
+			"json":{"displayProperties":{"description":"Form a fireteam of six and brave the strange and powerful realms of our enemies.","name":"Raid","icon":"/common/destiny2_content/icons/424919798480e368b0c0379bdd1f94b5.png","hasIcon":true},"hash":2043403989,"index":7,"redacted":false}
+		},
+		{
+			"id":2112637710,
+			"json":{"displayProperties":{"description":"Enter the Trials of the Nine to face your fellow Guardians. Prepare to be judged.","name":"Trials of the Nine","icon":"/img/misc/missing_icon_d2.png","hasIcon":false},"hash":2112637710,"index":19,"redacted":false}
+		},
+	]
+}
